@@ -20,6 +20,10 @@ https://www.thingiverse.com/thing:1913982
 
 I used simpleio and neopixel library from here https://circuitpython.org/libraries
 
+## Plans
 
+ - make the tree dance to the music
+ - enable colorpicking, that you are able to choose colors which are used for the lightshow
+ - more songs
  
  
