@@ -28,4 +28,4 @@ I used simpleio and neopixel library from here https://circuitpython.org/librari
  - enable colorpicking, that you are able to choose colors which are used for the lightshow
  - more songs
  
- 
+ ![A picture of the tree](https://github.com/mansam-ger/christmas_tree/blob/main/tree.jpg)
