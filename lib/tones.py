@@ -1,5 +1,5 @@
 TONES = {
-"PP": 0, #testen ob 0 funktioniert    
+"PP": 0, #PP is used for pauses    
 "H0": 31,
 "C1": 33,
 "CS1": 35,
